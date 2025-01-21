@@ -13,4 +13,4 @@ BEGIN
         SET NEW.valid_email = NEW.valid_email;
     END IF;
 END $$
-DELIMITER 
+DELIMITER ; 
